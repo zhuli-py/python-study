@@ -45,3 +45,6 @@ x = MyClass()
 # 访问类的属性和方法
 print("MyClass 类的属性 i 为：", x.i)
 print("MyClass 类的方法 f 输出为：", x.f())
+
+
+print("已同步到GitHub，后续修改都可以检测到，修改后提交到GitHub云端，代码就上云啦")
