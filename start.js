@@ -1,3 +1,4 @@
+#停止任务实例脚本需要在控制台执行
 async function start(startId,endId){
     if(!startId || !endId) return 
     let nowId = startId
@@ -28,4 +29,4 @@ function stopJob(id){
         "referrerPolicy": "strict-origin-when-cross-origin"
     })
 }
-start(83882,83932)
+start(83948,84109)
